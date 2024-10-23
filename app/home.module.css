@@ -1,0 +1,56 @@
+.box{
+    background-color: #5ac399;
+    padding-left: 165px;
+    
+    font-size: 20px;
+    border-color: #0e0f0d11;
+    border-width: 7px;
+    border-radius: 12px;
+    
+    margin-bottom: 5px;
+    font-style: oblique;
+    
+
+
+}
+.about{
+    background-color: rgb(75, 106, 163);
+    font-size: 20px;
+    border-color: #0e0f0d11;
+    border-width: 7px;
+    border-radius: 85px;
+    padding-left: 16px;
+    margin-bottom: 5px;
+    font-style: oblique;
+    inline-size: 100px;
+    
+}
+
+.contact{
+    background-color: rgb(198, 80, 147);
+    font-size: 20px;
+    border-color: #0e0f0d11;
+    border-width: 7px;
+    border-radius: 85px;
+    padding-left: 10px;
+    margin-bottom: 5px;
+    font-style: oblique;
+    inline-size: 100px; 
+    padding-right: 10px;
+    
+
+}
+.services{
+    background-color: rgb(19, 197, 220);
+    font-size: 20px;
+    border-color: #0e0f0d11;
+    border-width: 7px;
+    border-radius: 85px;
+    padding-left: 10px;
+    margin-bottom: 5px;
+    font-style: oblique;
+    inline-size: 100px; 
+    padding-right: 10px;
+
+
+}

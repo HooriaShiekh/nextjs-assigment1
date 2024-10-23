@@ -1,0 +1,33 @@
+.services{
+    background-color: rgb(114, 83, 214);
+    
+    padding-left: 165px;
+    
+    font-size: 20px;
+    border-color: #0e0f0d11;
+    border-width: 7px;
+    border-radius: 12px;
+    
+    margin-bottom: 5px;
+    font-style: oblique;
+    
+    
+}
+.hi{
+    background-color: rgb(214, 193, 161);
+    border-radius: 12px;
+    padding-left: 13px;
+}
+.myservice{
+    background-color: rgb(219, 209, 94);
+    border-color: #0e0f0d11;
+    border-width: 3px;
+    border-radius: 85px;
+    padding-left: 10px;
+    margin-bottom: 5px;
+    font-style: oblique;
+    inline-size: 100px; 
+    padding-right: 10px;
+    margin-top: 9px;
+
+}
